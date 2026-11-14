@@ -46,7 +46,7 @@ h1{
     font-weight: 700;
     letter-spacing: -0.5px;
     text-align: center;
-    color: var(--text-color);
+    color: var(--accent-color);
     text-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
 }
 h1 span {
